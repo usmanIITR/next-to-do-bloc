@@ -22,7 +22,7 @@ class AddTaskWidget extends StatelessWidget {
             ),
           ),
           const SizedBox(
-            height: 10,
+            height: 15,
           ),
           //New Comment added
           TextField(
